@@ -1,3 +1,7 @@
+## Introduction
+This fork adds some scripts, summary data, and notes to Goodhue and Wagner's bestiary.  The additions were prepared for Fall 2024 Semantics Seminar at Cornell.
+
+
 ## The Intonational Bestiary
 
 Authors: Dan Goodhue &  Michael Wagner
