@@ -1,0 +1,11 @@
+ 255 Yes/No Rise
+ 151 RFR
+ 108 Contradiction Contour
+  88 Fall
+  66 Polarity Focus
+  32 Upstepped Fall
+  29 Presumption Contour
+  14 Other Fall
+  11 NA
+   2 Incredulity Contour
+   1 Contour

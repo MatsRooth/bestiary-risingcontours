@@ -1,0 +1,151 @@
+contour_1072_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1072_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1072_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1072_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1072_6_3.wav	RFR	You have money	I don't really know why this foundation keeps asking me for donations, they should know that I don't respond well to soliciting.
+contour_1072_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1094_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1094_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1094_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1094_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1322_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1322_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1322_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1322_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1322_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1322_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1323_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1323_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1323_8_3.wav	RFR	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1323_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1323_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1323_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1323_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1451_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1451_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1451_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1451_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1451_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1451_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1451_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1471_6_3.wav	RFR	You have money	I don't really know why this foundation keeps asking me for donations, they should know that I don't respond well to soliciting.
+contour_1471_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_15_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_15_8_3.wav	RFR	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_15_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_15_6_3.wav	RFR	You have money	I don't really know why this foundation keeps asking me for donations, they should know that I don't respond well to soliciting.
+contour_15_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1543_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1543_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1543_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1600_8_3.wav	RFR	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1600_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1600_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1600_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1600_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1600_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1600_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1600_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1617_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1617_8_3.wav	RFR	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1617_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1617_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1617_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1617_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1617_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1619_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1619_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1619_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1619_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1619_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1620_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1645_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1645_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1645_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1645_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1645_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1645_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1646_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1646_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1646_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1646_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1646_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1646_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1647_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1647_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1647_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1647_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1647_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1647_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1648_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1648_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1648_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1648_6_3.wav	RFR	You have money	I don't really know why this foundation keeps asking me for donations, they should know that I don't respond well to soliciting.
+contour_1648_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1648_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1649_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1649_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1649_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1649_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1654_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1654_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1654_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1654_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1656_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1656_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1656_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1656_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1656_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1656_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1657_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1657_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1657_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1657_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1657_8_3.wav	RFR	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1657_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1657_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1658_6_3.wav	RFR	You have money	I don't really know why this foundation keeps asking me for donations, they should know that I don't respond well to soliciting.
+contour_1658_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1658_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1658_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1658_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1658_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1658_8_3.wav	RFR	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1659_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1659_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1659_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1659_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1659_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1659_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1659_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1663_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1663_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1663_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1663_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1663_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_1663_6_3.wav	RFR	You have money	I don't really know why this foundation keeps asking me for donations, they should know that I don't respond well to soliciting.
+contour_1663_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1677_8_3.wav	RFR	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1677_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_1677_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_1684_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1684_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1684_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1684_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_1684_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_618_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_618_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_618_6_3.wav	RFR	You have money	I don't really know why this foundation keeps asking me for donations, they should know that I don't respond well to soliciting.
+contour_618_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_618_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_618_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.
+contour_618_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_618_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_930_8_3.wav	RFR	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_930_5_3.wav	RFR	You went shopping	This day has turned out to be so lame, I just wanted to have fun, but I didn't get to do a single thing I liked. 
+contour_930_1_3.wav	RFR	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_930_4_3.wav	RFR	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_930_7_3.wav	RFR	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_930_2_3.wav	RFR	You drink tea	I don't like going to this place because there is nothing I drink that I can order there.
+contour_930_3_3.wav	RFR	You like cats	She asked what my favorite animal is, but I'm not really sure, I'm just not an animal person. 
+contour_930_9_3.wav	RFR	You have a bike	I can't join you because it starts after the metro stops running, and I have no way of getting there.

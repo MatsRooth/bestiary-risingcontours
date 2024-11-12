@@ -1,0 +1,108 @@
+contour_1072_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1072_5_1.wav	Contradiction Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1072_8_3.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1094_7_2.wav	Contradiction Contour	You know Manuel	I just talked to Manuel, we're going to meet up later.
+contour_1322_6_1.wav	Contradiction Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1322_9_1.wav	Contradiction Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1322_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1322_5_1.wav	Contradiction Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1322_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1323_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1323_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1323_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1323_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1323_6_1.wav	Contradiction Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1323_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1451_6_3.wav	Contradiction Contour	You have money	I don't really know why this foundation keeps asking me for donations, they should know that I don't respond well to soliciting.
+contour_1451_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1451_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1451_5_1.wav	Contradiction Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1451_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1471_4_3.wav	Contradiction Contour	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1471_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1471_8_3.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1471_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1543_7_3.wav	Contradiction Contour	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1543_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1543_9_1.wav	Contradiction Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1543_1_3.wav	Contradiction Contour	You like John	I don't feel like going to this party tonight, I have the feeling I might not like any of the people there.
+contour_1543_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1543_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1543_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1549_8_3.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1600_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1600_5_1.wav	Contradiction Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1600_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1600_9_1.wav	Contradiction Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1600_6_1.wav	Contradiction Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1600_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1600_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1617_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1617_6_1.wav	Contradiction Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1617_9_1.wav	Contradiction Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1617_8_2.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, and I said awesome, now I just need to get a dress for the occasion.
+contour_1617_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1617_5_1.wav	Contradiction Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1617_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1617_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1617_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1617_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1619_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1619_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1619_6_1.wav	Contradiction Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1619_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1619_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1619_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1619_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1620_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1645_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1645_9_1.wav	Contradiction Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1645_6_1.wav	Contradiction Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1645_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1646_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1646_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1646_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1646_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1646_5_1.wav	Contradiction Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1646_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1647_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1647_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1647_5_1.wav	Contradiction Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1648_5_1.wav	Contradiction Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1648_8_3.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1649_8_3.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_1649_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1649_4_3.wav	Contradiction Contour	You eat cheese	We're going to a Swiss restaurant, and I'm worried that there won't be much that I'd actually want to eat.
+contour_1649_9_1.wav	Contradiction Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1654_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1654_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1654_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1654_6_1.wav	Contradiction Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1654_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1656_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1656_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1658_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1658_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1659_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1659_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1663_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1663_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1663_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1663_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1663_9_1.wav	Contradiction Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1663_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1677_8_2.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, and I said awesome, now I just need to get a dress for the occasion.
+contour_1677_7_3.wav	Contradiction Contour	You know Manuel	The concert tonight is all sold out and I didn't get a ticket yet! I wish I knew someone who worked there who could get me in. 
+contour_1677_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1677_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1684_8_3.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, and I wonder why he did, I thought he liked Jennifer.
+contour_618_2_1.wav	Contradiction Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_618_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_618_7_1.wav	Contradiction Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_618_4_1.wav	Contradiction Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_618_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_930_1_1.wav	Contradiction Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_930_3_2.wav	Contradiction Contour	You like cats	Dylan just got a new kitten! I can't wait to go see it, I like cats.
+contour_930_9_1.wav	Contradiction Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_930_3_1.wav	Contradiction Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_930_8_1.wav	Contradiction Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.

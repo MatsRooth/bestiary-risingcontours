@@ -1,0 +1,29 @@
+contour_1094_4_1.wav	Presumption Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1322_1_1.wav	Presumption Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1322_7_1.wav	Presumption Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1322_4_1.wav	Presumption Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1322_3_1.wav	Presumption Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1451_3_1.wav	Presumption Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1451_9_1.wav	Presumption Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1451_1_1.wav	Presumption Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1451_4_1.wav	Presumption Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1451_6_1.wav	Presumption Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1619_9_1.wav	Presumption Contour	You have a bike	I can't join you today because you're going by bike, and I don't have one, so I'll just stay home.
+contour_1620_1_1.wav	Presumption Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1620_5_1.wav	Presumption Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
+contour_1645_7_1.wav	Presumption Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1645_2_1.wav	Presumption Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1647_7_1.wav	Presumption Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1647_6_1.wav	Presumption Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1647_3_1.wav	Presumption Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1648_6_1.wav	Presumption Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1649_7_1.wav	Presumption Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1649_8_1.wav	Presumption Contour	You can dance	Matt asked me out for a dance, but I told him that I can't dance and that it would just be awkward.
+contour_1649_6_1.wav	Presumption Contour	You have money	Mark was just asking me to repay him for the ticket, but I told him I don't have any money right now.
+contour_1654_2_1.wav	Presumption Contour	You drink tea	Yesterday I got home and my mom had made me tea. Ick. I never drink tea.
+contour_1656_1_1.wav	Presumption Contour	You like John	So yesterday Sarah asked me if I was going to John's Birthday party and I said no, I don't even like him.
+contour_1656_7_1.wav	Presumption Contour	You know Manuel	Jim was just asking me if I've seen Manuel, and I told him I don't know any Manuel.
+contour_1656_4_1.wav	Presumption Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1658_3_1.wav	Presumption Contour	You like cats	I saw a stray cat the other day. Cats are such filthy creatures, I don't like them.
+contour_1677_4_1.wav	Presumption Contour	You eat cheese	I don't like poutine because there's cheese on it! I don't eat cheese.
+contour_1684_5_1.wav	Presumption Contour	You went shopping	Today my Mom told me I'm addicted to shopping, so I told her I didn't go shopping at all yesterday.
